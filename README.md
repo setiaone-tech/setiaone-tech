@@ -16,3 +16,11 @@
 <img align="left" alt="Java" width="26px" src="https://logospng.org/download/java/logo-java-2048.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
 <img align="left" alt="PHP" width="26px" src="https://i2.wp.com/www.ryadel.com/wp-content/uploads/2017/08/php-logo.png" />
+
+<br />
+
+### Statistic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setiaone-tech&layout=compact)](https://github.com/setiaone-tech/github-readme-stats)
+<br />
+![setiaone-tech GitHub stats](https://github-readme-stats.vercel.app/api?username=setiaone-tech&show_icons=true&theme=tokyonight)
