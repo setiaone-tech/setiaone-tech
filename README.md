@@ -1,4 +1,10 @@
-### Hi there, I'm Ajun - aka [setiaone-tech]
+### Hi there, I'm Ajun 👋
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/setiaone-tech/count.svg" />
+</p>
 
 ## I'm Student at a University and majoring IT!
 
