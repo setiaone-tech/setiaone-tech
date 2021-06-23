@@ -27,6 +27,6 @@
 
 ### Statistic
 
-[![Top Langs](https://github.com/setiaone-tech/setiaone-tec/blob/master/generated/languages.svg)]
+![Top Langs](https://github.com/setiaone-tech/setiaone-tec/blob/master/generated/languages.svg)
 <br />
 ![setiaone-tech GitHub stats](https://github-readme-stats.vercel.app/api?username=setiaone-tech&show_icons=true&theme=tokyonight)
