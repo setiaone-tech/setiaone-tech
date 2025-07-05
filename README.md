@@ -13,7 +13,7 @@ I'm a passionate Information Technology student from Indonesia with a strong int
 - 🌱 I’m currently diving deeper into **Python**, exploring frameworks like **Django/Flask** and learning about **RESTful APIs**.
 - 👯 I’m open to collaborating on open-source projects, especially those related to **back-end systems or automation scripts**.
 - 💬 Ask me about **Python, Java, PHP,** or anything related to server-side logic!
-- 📫 How to reach me: **[emailanda@contoh.com](mailto:emailanda@contoh.com)**
+- 📫 How to reach me: **[muhammadajun555@gmail.com](mailto:muhammadajun555@gmail.com)**
 - ⚡ Fun fact: I find more joy in crafting complex back-end logic than designing a user interface.
 
 ---
@@ -22,7 +22,7 @@ I'm a passionate Information Technology student from Indonesia with a strong int
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql,postgresql,git,vscode,docker,linux&perline=5" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql,postgresql,git,vscode,linux&perline=5" />
   </a>
 </p>
 
@@ -49,7 +49,6 @@ I'm a passionate Information Technology student from Indonesia with a strong int
 ### 📫 Connect with Me
 
 <p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<a href="https://www.linkedin.com/in/muhammad-ajun-setiawan-798092285"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/setiaone1519"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 </p>
