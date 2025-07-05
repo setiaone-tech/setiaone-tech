@@ -1,32 +1,55 @@
 ### Hi there, I'm Ajun 👋
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world banner">
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a passionate Information Technology student from Indonesia with a strong interest in software development. My primary focus is on **Back-End Development**, and I enjoy building robust and efficient applications.
+
+- 🌱 I’m currently diving deeper into **Python**, exploring frameworks like **Django/Flask** and learning about **RESTful APIs**.
+- 👯 I’m open to collaborating on open-source projects, especially those related to **back-end systems or automation scripts**.
+- 💬 Ask me about **Python, Java, PHP,** or anything related to server-side logic!
+- 📫 How to reach me: **[emailanda@contoh.com](mailto:emailanda@contoh.com)**
+- ⚡ Fun fact: I find more joy in crafting complex back-end logic than designing a user interface.
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,mysql,postgresql,git,vscode,docker,linux&perline=5" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=setiaone-tech&show_icons=true&theme=tokyonight&rank_icon=github" alt="setiaone-tech's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=setiaone-tech&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=setiaone-tech&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/setiaone-tech/count.svg" />
 </p>
 
-## I'm Student at a University and majoring IT!
+---
 
-- 🌱 I’m currently learning everything especially Python
-- 👯 I’m looking for someone who can collaborate with me
-- 💬 Ask me about programming languange
-- ⚡ Fun fact: I love back-end more than front-end
+### 📫 Connect with Me
 
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Notepad++" width="26px" src="https://avatars.githubusercontent.com/u/12589084?s=200&v=4" />
-<img align="left" alt="Python" width="26px" src="https://avatars2.githubusercontent.com/u/22762836?s=400&v=4" />
-<img align="left" alt="Java" width="26px" src="https://logospng.org/download/java/logo-java-2048.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" />
-<img align="left" alt="PHP" width="26px" src="https://i2.wp.com/www.ryadel.com/wp-content/uploads/2017/08/php-logo.png" />
-
-<br />
-
-### Statistic
-
-![Top Langs](https://github.com/setiaone-tech/setiaone-tec/blob/master/generated/languages.svg)
-<br />
-![setiaone-tech GitHub stats](https://github-readme-stats.vercel.app/api?username=setiaone-tech&show_icons=true&theme=tokyonight)
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+</p>
